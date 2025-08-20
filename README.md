@@ -1,8 +1,8 @@
 # Ibson Gomes <img src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif" width="50px">
 
-Eu sou <strong>Ibson Gomes</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Ibson Gomes</strong>, <strong>tenho 17 anos, estou na primeira faculdade e em busca de um emprego.</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>estou cursando analise e desenvolvimento de sistemas.</strong> 
 - 💬 Pergunte-me sobre: <strong>Filmes, séries e jogos</strong>
 - 📣 Nós podemos falar em: <strong>Português e inglês</strong>
 
