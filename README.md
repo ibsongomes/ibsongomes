@@ -3,8 +3,8 @@
 Eu sou <strong>Ibson Gomes</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 💬 Pergunte-me sobre: <strong>Filmes, séries e jogos</strong>
+- 📣 Nós podemos falar em: <strong>Português e inglês</strong>
 
 <div align="center">
 
