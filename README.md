@@ -1,20 +1,18 @@
-# Ibson Gomes <img src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif" width="50px">
+# 💫 About Me:
+Olá, meu nome é Ibson Gomes.<br>Sou estudante de ADS na Faculdade Senac.<br><br>
 
-Eu sou <strong>Ibson Gomes</strong>, <strong>tenho 17 anos, estou na primeira faculdade e em busca de um emprego.</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>estou cursando analise e desenvolvimento de sistemas.</strong> 
-- 💬 Pergunte-me sobre: <strong>Filmes, séries e jogos</strong>
-- 📣 Nós podemos falar em: <strong>Português e inglês</strong>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibsongomes8@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ibsongomes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ibsongomes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibsongomes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ibsongomes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+---
+[![](https://visitcount.itsvg.in/api?id=ibsongomes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
