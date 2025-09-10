@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="100px">
 Olá, meu nome é Ibson Gomes.<br>Sou estudante de ADS na Faculdade Senac.<br><br>
 
 
