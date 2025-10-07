@@ -6,9 +6,9 @@ Olá, meu nome é Ibson Gomes.<br>Sou estudante de ADS na Faculdade Senac.<br><b
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibsongomes8@gmail.com)
 # 📊 GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ibsongomes&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180px" width="408px" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ibsongomes&theme=dark&hide_border=false" height="180px" width="445px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibsongomes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px" width="408px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibsongomes&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180px" width="300px" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ibsongomes&theme=dark&hide_border=false" height="180px" width="300px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibsongomes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px" width="300px" />
 </div>
 
 ### 🔝 Top Contributed Repo
